@@ -1,4 +1,5 @@
 # SupportForMe
+
 # ![WebApp](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_1.png)
 # WebApp
 <table>
@@ -18,22 +19,33 @@ Here is a working live demo :  https://iharsh234.github.io/WebApp/
 
 ### 방문 페이지
 사이트 메인 화면. 현재 등록된 최신프로젝트, 관리자가 선택한 프로젝트, 실시간 랭킹, 카테고리 유형별 진행중인 프로젝트를 볼 수 있다.
+
 ![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_1.png)
 
 ### 더보기 화면
 카테고리별로 진행중인 전체 프로젝트를 볼 수 있다.
+
 ![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_2.png)
 
 ### 프로젝트 상세화면
 해당 프로젝트의 구체적인 내용을 확인할 수 있다.
+
 ![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_3.png)
 
 ### 로그인 화면
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart1.JPG)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart2.JPG)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart3.JPG)
+
+![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_4.png)
+
+### 아이디 찾기
+
+![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_5.png)
+
+### 비밀번호 찾기
+
+![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_6.png)
 
 ### 관리자 화면
+
 ![](https://iharsh234.github.io/WebApp/images/demo/demo_chart1.JPG)
 ![](https://iharsh234.github.io/WebApp/images/demo/demo_chart2.JPG)
 ![](https://iharsh234.github.io/WebApp/images/demo/demo_chart3.JPG)
