@@ -4,7 +4,7 @@
 <table>
 <tr>
 <td>
-  A webapp using Quandl API to display history of stock growth in a given period of time. It helps predict the growth of stocks from the  charts of stock performace in any period of time. It helps to judge stocks, with the principle of momentum investing, which returns 1% per month on average.
+창작자들은 문화 예술 프로젝트를 등록한다. 그러면 투자자는 흥미롭고 발전가능성이 보이는 프로젝트에 금액을 투자한다. 투자자가 투자한 금액에 따라서 창작자는 투자자에게 선물을 준다. 등록된 프로젝트의 모금액이 목표치에 도달하면 모금기간의 마감일에 투자한 금액만큼 투자자의 계좌에서 결제된다. 창작자는 투자받은 금액으로 프로젝트를 구현한다. 
 </td>
 </tr>
 </table>
