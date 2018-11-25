@@ -16,24 +16,26 @@ Here is a working live demo :  https://iharsh234.github.io/WebApp/
 
 ## Site
 
-### Landing Page
-Currently it is working on all NSE (India) Stocks, BSE (India) Stocks Symbol will be added soon.
+### 방문 페이지
+사이트 메인 화면. 현재 등록된 최신프로젝트, 관리자가 선택한 프로젝트, 실시간 랭킹, 카테고리 유형별 진행중인 프로젝트를 볼 수 있다.
 
 ![](https://iharsh234.github.io/WebApp/images/demo/web_app_face.JPG)
 
-### Query Filled Form
+### 더보기 화면
+카테고리별로 진행중인 전체 프로젝트를 볼 수 있다.
+
+![](https://iharsh234.github.io/WebApp/images/demo/mobile.png)
+
+### 프로젝트 상세화면
 ![](https://iharsh234.github.io/WebApp/images/demo/demo_query.JPG)
 
-### Charts
+### 관리자 화면
 ![](https://iharsh234.github.io/WebApp/images/demo/demo_chart1.JPG)
 ![](https://iharsh234.github.io/WebApp/images/demo/demo_chart2.JPG)
 ![](https://iharsh234.github.io/WebApp/images/demo/demo_chart3.JPG)
 
 
-## Mobile support
-The WebApp is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
 
-![](https://iharsh234.github.io/WebApp/images/demo/mobile.png)
 
 
 
