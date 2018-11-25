@@ -1,5 +1,4 @@
 # SupportForMe
-최종프로젝트
 # ![WebApp](https://iharsh234.github.io/WebApp/images/demo/demo_landing.JPG)
 # WebApp
 <table>
@@ -81,4 +80,4 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## [License](https://github.com/iharsh234/WebApp/blob/master/LICENSE.md)
 
-MIT © [Harsh Vijay ](https://github.com/iharsh234)
+MIT ©[dlehdrjs36](https://github.com/dlehdrjs36)
