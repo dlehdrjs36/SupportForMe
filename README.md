@@ -19,7 +19,7 @@ Here is a working live demo :  https://iharsh234.github.io/WebApp/
 ### 방문 페이지
 사이트 메인 화면. 현재 등록된 최신프로젝트, 관리자가 선택한 프로젝트, 실시간 랭킹, 카테고리 유형별 진행중인 프로젝트를 볼 수 있다.
 
-![](https://iharsh234.github.io/WebApp/images/demo/web_app_face.JPG)
+![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_1.png)
 
 ### 더보기 화면
 카테고리별로 진행중인 전체 프로젝트를 볼 수 있다.
