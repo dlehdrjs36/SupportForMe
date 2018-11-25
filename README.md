@@ -12,7 +12,7 @@
 
 
 ## Demo
-Here is a working live demo :  https://iharsh234.github.io/WebApp/
+Here is a working live demo :  [Link] (http://180.71.250.243:81/SupportForMe/)
 
 
 ## Site
@@ -44,19 +44,23 @@ Here is a working live demo :  https://iharsh234.github.io/WebApp/
 
 ![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_6.png)
 
+### 회원 - 마이페이지
+
+![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_7.png)
+
 ### 관리자 화면
 
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart1.JPG)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart2.JPG)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart3.JPG)
+![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_8.png)
+![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_9.png)
+![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_10.png)
+![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_11.png)
+![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_12.png)
 
 
 
 
 
-
-
-## [Usage](https://iharsh234.github.io/WebApp/) 
+## [Usage](http://180.71.250.243:81/SupportForMe/) 
 
 ### Development
 Want to contribute? Great!
