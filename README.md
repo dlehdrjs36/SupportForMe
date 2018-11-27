@@ -3,6 +3,7 @@
 # ![WebApp](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_1.png)
 
 # WebApp
+
 <table>
 <tr>
 <td>
@@ -11,7 +12,8 @@
 </tr>
 </table>
 
-# 개발 환경
+## 개발 환경
+
 <table>
 <tr><td>서버</td><td>Apache Tomcat 8.5.32</td></tr>
 <tr><td>개발언어</td><td>JAVA 1.8</td></tr>
@@ -26,7 +28,8 @@
 <tr><td>배포</td><td>Jenkins</td></tr>
 </table>
 
-## Demo
+## 데모
+
 Here is a working live demo :  [Link](http://180.71.250.243:81/SupportForMe/)
 
 ## 사이트 소개
@@ -85,35 +88,11 @@ Here is a working live demo :  [Link](http://180.71.250.243:81/SupportForMe/)
 
 ![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_12.png)
 
+## 사용 API
 
-
-## [Usage](http://180.71.250.243:81/SupportForMe/) 
-
-### Development
-Want to contribute? Great!
-
-To fix a bug or enhance an existing module, follow these steps:
-
-- Fork the repo
-- Create a new branch (`git checkout -b improve-feature`)
-- Make the appropriate changes in the files
-- Add changes to reflect the changes made
-- Commit your changes (`git commit -am 'Improve feature'`)
-- Push to the branch (`git push origin improve-feature`)
-- Create a Pull Request 
-
-### Bug / Feature Request
-
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/iharsh234/WebApp/issues/new) by including your search query and the expected result.
-
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/iharsh234/WebApp/issues/new). Please include sample queries and their corresponding results.
-
-
-## Built with 
-
-- [jQuery - Ajax](http://www.w3schools.com/jquery/jquery_ref_ajax.asp) - jQuery simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development.
-- [Google Chart API](https://developers.google.com/chart/interactive/docs/quick_start) - Free , Rich Gallery , Customizable and Cross-browser compatible.
-- [Bootstrap](http://getbootstrap.com/) - Extensive list of components and  Bundled Javascript plugins.
+- [결제](https://www.iamport.kr/) - 아임포트
+- [주소 검색](http://postcode.map.daum.net/guide) - 다음 주소 검색
+- [WYSIWYG Editor](http://naver.github.io/smarteditor2/) - 네이버 스마트 에디터 2
 
 
 ## To-do
