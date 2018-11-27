@@ -32,12 +32,11 @@
 
 Here is a working live demo :  [Link](http://180.71.250.243:81/SupportForMe/)
 
-## 사이트 소개
+## 기능 소개
 
 ### 방문 페이지
-사이트 메인 화면. 현재 등록된 최신프로젝트, 관리자가 선택한 프로젝트, 실시간 랭킹, 카테고리 유형별 진행중인 프로젝트를 볼 수 있다.
-
-![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_1.png)
+사이트 메인 화면. 현재 등록된 최신프로젝트, 관리자가 선택한 프로젝트, 실시간 랭킹, 카테고리 유형별 진행중인 프로젝트를 볼 수 있다. 
+앞서 본 SupportForMe 화면.
 
 ### 더보기 화면
 카테고리별로 진행중인 전체 프로젝트를 볼 수 있다.
@@ -94,11 +93,6 @@ Here is a working live demo :  [Link](http://180.71.250.243:81/SupportForMe/)
 - [주소 검색](https://github.com/daumPostcode/QnA) - 다음 주소 검색
 - [WYSIWYG Editor](http://naver.github.io/smarteditor2/) - 네이버 스마트 에디터 2
 
-
-## To-do
-- Add BSE (India) Symbol to the current App.
-- Decide comparison models of Stocks. (suggestions are most welcome).
-- Another WebApp, capable of comparing at least 10 stocks.
 
 ## Team
 
