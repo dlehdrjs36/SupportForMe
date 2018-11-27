@@ -90,8 +90,8 @@ Here is a working live demo :  [Link](http://180.71.250.243:81/SupportForMe/)
 
 ## 사용 API
 
-- [결제](https://www.iamport.kr/) - 아임포트
-- [주소 검색](http://postcode.map.daum.net/guide) - 다음 주소 검색
+- [결제](https://github.com/iamport/iamport-manual) - 아임포트
+- [주소 검색](https://github.com/daumPostcode/QnA) - 다음 주소 검색
 - [WYSIWYG Editor](http://naver.github.io/smarteditor2/) - 네이버 스마트 에디터 2
 
 
@@ -104,7 +104,7 @@ Here is a working live demo :  [Link](http://180.71.250.243:81/SupportForMe/)
 
 [![Harsh Vijay](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/iharsh234)  | [![Quandl.com](https://github.com/iharsh234/WebApp/blob/master/images/quandl.jpg)](https://www.quandl.com/)
 ---|---
-[Harsh Vijay ](https://github.com/iharsh234) |[Quandl](https://www.quandl.com)
+[오상민](https://github.com/iharsh234) |[이동건](https://www.quandl.com) |[김혜연](https://www.quandl.com) |[김효정](https://www.quandl.com)
 
 ## [License](https://github.com/iharsh234/WebApp/blob/master/LICENSE.md)
 
