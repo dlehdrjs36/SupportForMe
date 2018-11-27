@@ -132,7 +132,7 @@ Here is a working live demo :  [Link](http://180.71.250.243:81/SupportForMe/)
 
 ## Team
 
-[![오상민]()](https://github.com/osm2112)  | [![이동건]()](https://github.com/dlehdrjs36)  | [![김혜연]()](https://github.com/)  | [![김효정]()](https://github.com/)
+[![오상민](https://dlehdrjs36.github.io/SupportForMe/DemoImages/대체이미지.jpg)](https://github.com/osm2112)  | [![이동건](https://dlehdrjs36.github.io/SupportForMe/DemoImages/대체이미지.jpg)](https://github.com/dlehdrjs36)  | [![김혜연](https://dlehdrjs36.github.io/SupportForMe/DemoImages/대체이미지.jpg)](https://github.com/)  | [![김효정](https://dlehdrjs36.github.io/SupportForMe/DemoImages/대체이미지.jpg)](https://github.com/)
 ---|---|---|---
 [오상민](https://github.com/osm2112) |[이동건](https://github.com/dlehdrjs36) |[김혜연](https://github.com/) |[김효정](https://github.com/)
 
