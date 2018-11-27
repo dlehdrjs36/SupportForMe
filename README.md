@@ -13,11 +13,9 @@
 
 # 개발 환경
 <table>
-<tr>서버</tr>
-<td>
-Apache Tomcat 8.5.32
-</td>
-
+<tr>
+<td>서버</td><td>Apache Tomcat 8.5.32</td>
+</tr>
 </table>
 
 ## Demo
