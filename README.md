@@ -1,6 +1,7 @@
 # SupportForMe
 
 # ![WebApp](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_1.png)
+
 # WebApp
 <table>
 <tr>
@@ -10,12 +11,19 @@
 </tr>
 </table>
 
+# 개발 환경
+<table>
+<tr>서버</tr>
+<td>
+Apache Tomcat 8.5.32
+</td>
+
+</table>
 
 ## Demo
 Here is a working live demo :  [Link](http://180.71.250.243:81/SupportForMe/)
 
-
-## Site
+## 사이트 소개
 
 ### 방문 페이지
 사이트 메인 화면. 현재 등록된 최신프로젝트, 관리자가 선택한 프로젝트, 실시간 랭킹, 카테고리 유형별 진행중인 프로젝트를 볼 수 있다.
@@ -70,8 +78,6 @@ Here is a working live demo :  [Link](http://180.71.250.243:81/SupportForMe/)
 ![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_11.png)
 
 ![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_12.png)
-
-
 
 
 
