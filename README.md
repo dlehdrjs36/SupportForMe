@@ -102,8 +102,10 @@ Here is a working live demo :  [Link](http://180.71.250.243:81/SupportForMe/)
 
 ## Team
 
-[![Harsh Vijay](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/iharsh234)  | [![Quandl.com](https://github.com/iharsh234/WebApp/blob/master/images/quandl.jpg)](https://www.quandl.com/) ---|---
-[오상민](https://github.com/iharsh234) |[이동건](https://github.com/dlehdrjs36) |[김혜연](https://www.quandl.com) |[김효정](https://www.quandl.com)
+[![오상민](https://github.com/iharsh234/WebApp/blob/master/images/quandl.jpg)](https://github.com/osm2112)  | [![이동건](https://github.com/iharsh234/WebApp/blob/master/images/quandl.jpg)](https://github.com/dlehdrjs36)  | [![김혜연](https://github.com/iharsh234/WebApp/blob/master/images/quandl.jpg)](https://github.com/)  | [![김효정](https://github.com/iharsh234/WebApp/blob/master/images/quandl.jpg)](https://github.com/)
+---|---|---|---
+[오상민](https://github.com/osm2112) |[이동건](https://github.com/dlehdrjs36) |[김혜연](https://github.com/) |[김효정](https://github.com/)
+
 
 ## [License](https://github.com/iharsh234/WebApp/blob/master/LICENSE.md)
 
