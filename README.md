@@ -13,9 +13,17 @@
 
 # 개발 환경
 <table>
-<tr>
-<td>서버</td><td>Apache Tomcat 8.5.32</td>
-</tr>
+<tr><td>서버</td><td>Apache Tomcat 8.5.32</td></tr>
+<tr><td>개발언어</td><td>JAVA 1.8</td></tr>
+<tr><td>DATABASE</td><td>ORACLE 11g XE</td></tr>
+<tr><td>개발 IDE</td><td>Eclipse Java EE IDE Oxygen</td></tr>
+<tr><td>JAVA Framework</td><td>SPRING 4.2.4</td></tr>
+<tr><td>Persistent Framework</td><td>MYBATIS 3</td></tr>
+<tr><td>CSS Framework</td><td>Bootstrap 3.3.7</td></tr>
+<tr><td>JAVA SCRIPT LIBRARY</td><td>JQuery 3.3.1, JQuery UI 1.12.1</td></tr>
+<tr><td>형상 관리</td><td>GitHub</td></tr>
+<tr><td>빌드</td><td>Maven</td></tr>
+<tr><td>배포</td><td>Jenkins</td></tr>
 </table>
 
 ## Demo
