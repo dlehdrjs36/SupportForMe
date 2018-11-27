@@ -2,12 +2,16 @@
 
 # ![WebApp](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_1.png)
 
-# WebApp
+## 프로젝트 주제
+
+개인의 문화 콘텐츠 생산지원을 위한 문화 투자 사이트
+
+## 프로젝트 선정 배경
 
 <table>
 <tr>
 <td>
-창작자들은 문화 예술 프로젝트를 등록한다. 그러면 투자자는 흥미롭고 발전가능성이 보이는 프로젝트에 금액을 투자한다. 투자자가 투자한 금액에 따라서 창작자는 투자자에게 선물을 준다. 등록된 프로젝트의 모금액이 목표치에 도달하면 모금기간의 마감일에 투자한 금액만큼 투자자의 계좌에서 결제된다. 창작자는 투자받은 금액으로 프로젝트를 구현한다. 
+사람들의 삶의 태도가 점점 변화하고 있다. 과거에는 고용안정성을 중시했다면, 요즘은 워라밸을 중요시 하고 있는 추세이다. 대구 경북지역 또한 워라밸 캠페인을 여는 등 삶의 질을 개선하기 위해 노력하고 있다. 내 삶을 즐기며 살고 싶다는 사람들이 점점 증가함에 따라서 여가생활시간도 증가될 것으로 보인다. 그에 따라 문화 분야의 수요가 많이 증가할 것으로 예상되지만 기존의 사이트는 사용이 복잡하고 대구 지역만을 위해 전문적으로 개인의 문화 콘텐츠 생산을 지원해주는 사이트는 존재하지 않는다. 이와 같은 현재의 상황을 고려하고 개인의 문화 창조를 돕기 위해 이 사이트를 만들게 되었다.
 </td>
 </tr>
 </table>
@@ -43,10 +47,18 @@ Here is a working live demo :  [Link](http://180.71.250.243:81/SupportForMe/)
 
 ![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_2.png)
 
+
+
+
+
 ### 프로젝트 상세화면
 해당 프로젝트의 구체적인 내용을 확인할 수 있다.
 
 ![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_3.png)
+
+
+
+
 
 ### 프로젝트 등록화면
 프로젝트를 만든다. 일부 내용만 입력하고 저장하면 프로젝트가 제작중인 상태로, 프로젝트에 필요한 모든 사항들을 입력하고 등록하면 프로젝트 상태가 진행중으로 바뀐다.
@@ -59,21 +71,41 @@ Here is a working live demo :  [Link](http://180.71.250.243:81/SupportForMe/)
 
 ![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_16.png)
 
+
+
+
+
 ### 로그인 화면
 
 ![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_4.png)
+
+
+
+
 
 ### 아이디 찾기
 
 ![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_5.png)
 
+
+
+
+
 ### 비밀번호 찾기
 
 ![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_6.png)
 
+
+
+
+
 ### 회원 - 마이페이지
 
 ![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_7.png)
+
+
+
+
 
 ### 관리자 화면
 
@@ -87,6 +119,10 @@ Here is a working live demo :  [Link](http://180.71.250.243:81/SupportForMe/)
 
 ![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_12.png)
 
+
+
+
+
 ## 사용 API
 
 - [결제](https://github.com/iamport/iamport-manual) - 아임포트
@@ -96,7 +132,7 @@ Here is a working live demo :  [Link](http://180.71.250.243:81/SupportForMe/)
 
 ## Team
 
-[![오상민](https://github.com/iharsh234/WebApp/blob/master/images/quandl.jpg)](https://github.com/osm2112)  | [![이동건](https://github.com/iharsh234/WebApp/blob/master/images/quandl.jpg)](https://github.com/dlehdrjs36)  | [![김혜연](https://github.com/iharsh234/WebApp/blob/master/images/quandl.jpg)](https://github.com/)  | [![김효정](https://github.com/iharsh234/WebApp/blob/master/images/quandl.jpg)](https://github.com/)
+[![오상민]()](https://github.com/osm2112)  | [![이동건]()](https://github.com/dlehdrjs36)  | [![김혜연]()](https://github.com/)  | [![김효정]()](https://github.com/)
 ---|---|---|---
 [오상민](https://github.com/osm2112) |[이동건](https://github.com/dlehdrjs36) |[김혜연](https://github.com/) |[김효정](https://github.com/)
 
