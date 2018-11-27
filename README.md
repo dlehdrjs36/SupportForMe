@@ -101,6 +101,6 @@ Here is a working live demo :  [Link](http://180.71.250.243:81/SupportForMe/)
 [오상민](https://github.com/osm2112) |[이동건](https://github.com/dlehdrjs36) |[김혜연](https://github.com/) |[김효정](https://github.com/)
 
 
-## [License](https://github.com/iharsh234/WebApp/blob/master/LICENSE.md)
+## [License](https://github.com/dlehdrjs36/SupportForMe/blob/master/LICENSE.md)
 
 MIT ©[dlehdrjs36](https://github.com/dlehdrjs36)
