@@ -1,6 +1,8 @@
 MIT License
 
-Copyright (c) 2018 dlehdrjs36
+Copyright (c) [dlehdrjs36](https://github.com/dlehdrjs36) <slsldkf1234@gmail.com>
+
+Project Url: https://github.com/dlehdrjs36/SupportForMe
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
