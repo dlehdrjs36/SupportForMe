@@ -2,10 +2,13 @@
 
 # ![WebApp](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_1.png)
 
+***
+<br><br>
 ## 프로젝트 주제
 
 개인의 문화 콘텐츠 생산지원을 위한 문화 투자 사이트
 
+<br><br>
 ## 프로젝트 선정 배경
 
 <table>
@@ -16,6 +19,7 @@
 </tr>
 </table>
 
+<br><br>
 ## 개발 환경
 
 <table>
@@ -32,16 +36,19 @@
 <tr><td>배포</td><td>Jenkins</td></tr>
 </table>
 
+<br><br>
 ## 데모
 
 Here is a working live demo :  [Link](http://180.71.250.243:81/SupportForMe/)
 
+<br><br>
 ## 기능 소개
 
 ### 방문 페이지
 사이트 메인 화면. 현재 등록된 최신프로젝트, 관리자가 선택한 프로젝트, 실시간 랭킹, 카테고리 유형별 진행중인 프로젝트를 볼 수 있다. 
 앞서 본 SupportForMe 화면.
 
+<br><br>
 ### 더보기 화면
 카테고리별로 진행중인 전체 프로젝트를 볼 수 있다.
 
@@ -49,8 +56,7 @@ Here is a working live demo :  [Link](http://180.71.250.243:81/SupportForMe/)
 
 
 
-
-
+<br><br>
 ### 프로젝트 상세화면
 해당 프로젝트의 구체적인 내용을 확인할 수 있다.
 
@@ -58,8 +64,7 @@ Here is a working live demo :  [Link](http://180.71.250.243:81/SupportForMe/)
 
 
 
-
-
+<br><br>
 ### 프로젝트 등록화면
 프로젝트를 만든다. 일부 내용만 입력하고 저장하면 프로젝트가 제작중인 상태로, 프로젝트에 필요한 모든 사항들을 입력하고 등록하면 프로젝트 상태가 진행중으로 바뀐다.
 
@@ -74,6 +79,7 @@ Here is a working live demo :  [Link](http://180.71.250.243:81/SupportForMe/)
 
 
 
+<br><br>
 
 ### 로그인 화면
 
@@ -81,32 +87,28 @@ Here is a working live demo :  [Link](http://180.71.250.243:81/SupportForMe/)
 
 
 
-
-
+<br><br>
 ### 아이디 찾기
 
 ![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_5.png)
 
 
 
-
-
+<br><br>
 ### 비밀번호 찾기
 
 ![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_6.png)
 
 
 
-
-
+<br><br>
 ### 회원 - 마이페이지
 
 ![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_7.png)
 
 
 
-
-
+<br><br>
 ### 관리자 화면
 
 ![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_8.png)
@@ -121,8 +123,7 @@ Here is a working live demo :  [Link](http://180.71.250.243:81/SupportForMe/)
 
 
 
-
-
+<br><br>
 ## 사용 API
 
 - [결제](https://github.com/iamport/iamport-manual) - 아임포트
@@ -130,12 +131,14 @@ Here is a working live demo :  [Link](http://180.71.250.243:81/SupportForMe/)
 - [WYSIWYG Editor](http://naver.github.io/smarteditor2/) - 네이버 스마트 에디터 2
 
 
+<br><br>
 ## Team
 
 [![오상민](https://dlehdrjs36.github.io/SupportForMe/DemoImages/대체이미지.jpg)](https://github.com/osm2112)  | [![이동건](https://dlehdrjs36.github.io/SupportForMe/DemoImages/대체이미지.jpg)](https://github.com/dlehdrjs36)  | [![김혜연](https://dlehdrjs36.github.io/SupportForMe/DemoImages/대체이미지.jpg)](https://github.com/)  | [![김효정](https://dlehdrjs36.github.io/SupportForMe/DemoImages/대체이미지.jpg)](https://github.com/)
 ---|---|---|---
 [오상민](https://github.com/osm2112) |[이동건](https://github.com/dlehdrjs36) |[김혜연](https://github.com/) |[김효정](https://github.com/)
 
+<br><br>
 
 ## [License](https://github.com/dlehdrjs36/SupportForMe/blob/master/LICENSE.md)
 
