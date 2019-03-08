@@ -44,11 +44,14 @@
 <br><br>
 ## 기능 소개
 
+<hr/>
+
 ### [메인화면](#supportforme)
 <hr/> 
 현재 등록된 최신 프로젝트, 서포미 픽 프로젝트, 실시간 랭킹, 유형별로 진행중인 프로젝트를 볼 수 있다. 
 
 <br><br>
+<hr/>
 
 ### 더보기 화면
 <hr/>
@@ -61,6 +64,7 @@
 
 
 <br><br>
+<hr/>
 
 ### 프로젝트 상세화면
 <hr/>
@@ -74,6 +78,8 @@
 
 <br><br>
 
+<hr/>
+
 ### 프로젝트 등록화면
 <hr/>
 프로젝트를 만든다. 일부 내용만 입력하고 저장하면 프로젝트가 제작중인 상태로, 프로젝트에 필요한 모든 사항들을 입력하고 등록하면 프로젝트 상태가 진행중으로 바뀐다.
@@ -82,23 +88,36 @@
 
 <br><br><br>
 `프로젝트 등록단계-1`
+
+
+<br><br>
 ![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_13.png)
 
 <br><br><br>
 `프로젝트 등록단계-2`
+
+
+<br><br>
 ![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_14.png)
 
 <br><br><br>
 `프로젝트 등록단계-3`
+
+
+<br><br>
 ![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_15.png)
 
 <br><br><br>
 `프로젝트 등록단계-4`
+
+
+<br><br>
 ![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_16.png)
 
 
 
 <br><br>
+<hr/>
 
 ### 로그인 화면
 <hr/>
@@ -110,6 +129,8 @@
 
 
 <br><br>
+<hr/>
+
 ### 아이디 찾기
 <hr/>
 
@@ -120,6 +141,8 @@
 
 
 <br><br>
+<hr/>
+
 ### 비밀번호 찾기
 <hr/>
 
@@ -130,6 +153,8 @@
 
 
 <br><br>
+<hr/>
+
 ### 마이페이지
 <hr/>
 
@@ -140,6 +165,8 @@
 
 
 <br><br>
+<hr/>
+
 ### 관리자 화면 - 통계페이지
 <hr/>
 
@@ -150,6 +177,8 @@
 <!--![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_9.png)-->
 
 <br><br>
+<hr/>
+
 ### 관리자 화면 - 프로젝트 관리
 <hr/>
 
@@ -158,6 +187,8 @@
 ![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_10.png)
 
 <br><br>
+<hr/>
+
 ### 관리자 화면 - 회원 관리
 <hr/>
 
@@ -166,6 +197,8 @@
 ![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_11.png)
 
 <br><br>
+<hr/>
+
 ### 관리자 화면 - 서포미 픽 관리
 <hr/>
 
@@ -176,6 +209,8 @@
 
 
 <br><br>
+<hr/>
+
 ## 사용 API
 <hr/>
 
@@ -185,6 +220,8 @@
 
 
 <br><br>
+<hr/>
+
 ## Team
 <hr/>
 
