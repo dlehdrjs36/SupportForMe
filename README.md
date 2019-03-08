@@ -39,17 +39,17 @@
 <br><br>
 ## 데모
 
-Here is a working live demo :  [Link](http://180.71.250.243:81/SupportForMe/)
+~~[Link](http://180.71.250.243:81/SupportForMe/)~~
 
 <br><br>
 ## 기능 소개
 
 ### [메인화면](#supportforme)
-현재 등록된 최신 프로젝트, 서포미 픽 프로젝트, 실시간 랭킹, 카테고리 별 진행중인 프로젝트를 볼 수 있다. 
+현재 등록된 최신 프로젝트, 서포미 픽 프로젝트, 실시간 랭킹, 유형별로 진행중인 프로젝트를 볼 수 있다. 
 
 <br><br>
 ### 더보기 화면
-카테고리별로 진행중인 전체 프로젝트를 볼 수 있다.
+진행중인 전체 프로젝트를 볼 수 있다.
 
 ![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_2.png)
 
