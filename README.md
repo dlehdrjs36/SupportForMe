@@ -102,22 +102,31 @@ Here is a working live demo :  [Link](http://180.71.250.243:81/SupportForMe/)
 
 
 <br><br>
-### 회원 - 마이페이지
+### 마이페이지
 
 ![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_7.png)
 
 
 
 <br><br>
-### 관리자 화면
+### 관리자 화면 - 통계페이지
 
 ![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_8.png)
 
 ![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_9.png)
 
+<br><br>
+### 관리자 화면 - 프로젝트 관리
+
 ![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_10.png)
 
+<br><br>
+### 관리자 화면 - 회원 관리
+
 ![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_11.png)
+
+<br><br>
+### 관리자 화면 - 서포미 픽 관리
 
 ![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_12.png)
 
