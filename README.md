@@ -1,4 +1,6 @@
 # SupportForMe
+### 메인화면
+현재 등록된 최신 프로젝트, 서포미 픽 프로젝트, 실시간 랭킹, 카테고리 별 진행중인 프로젝트를 볼 수 있다. 
 
 # ![WebApp](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_1.png)
 
@@ -43,10 +45,6 @@ Here is a working live demo :  [Link](http://180.71.250.243:81/SupportForMe/)
 
 <br><br>
 ## 기능 소개
-
-### 방문 페이지
-사이트 메인 화면. 현재 등록된 최신프로젝트, 관리자가 선택한 프로젝트, 실시간 랭킹, 카테고리 유형별 진행중인 프로젝트를 볼 수 있다. 
-앞서 본 SupportForMe 화면.
 
 <br><br>
 ### 더보기 화면
