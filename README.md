@@ -66,15 +66,22 @@
 <br><br>
 ### 프로젝트 등록화면
 프로젝트를 만든다. 일부 내용만 입력하고 저장하면 프로젝트가 제작중인 상태로, 프로젝트에 필요한 모든 사항들을 입력하고 등록하면 프로젝트 상태가 진행중으로 바뀐다.
+<br>
 
+`프로젝트 등록단계-1`
 ![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_13.png)
 
+<br><br>
+`프로젝트 등록단계-2`
 ![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_14.png)
 
+<br><br>
+`프로젝트 등록단계-3`
 ![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_15.png)
 
+<br><br>
+`프로젝트 등록단계-4`
 ![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_16.png)
-
 
 
 
@@ -112,7 +119,7 @@
 
 ![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_8.png)
 
-![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_9.png)
+           ![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_9.png)
 
 <br><br>
 ### 관리자 화면 - 프로젝트 관리
