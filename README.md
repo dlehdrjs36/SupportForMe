@@ -167,7 +167,7 @@
 <br><br>
 <hr/>
 
-### 관리자 화면 - 통계페이지
+### 관리자 - 통계페이지
 <hr/>
 
 
@@ -179,7 +179,7 @@
 <br><br>
 <hr/>
 
-### 관리자 화면 - 프로젝트 관리
+### 관리자 - 프로젝트 관리
 <hr/>
 
 
@@ -189,7 +189,7 @@
 <br><br>
 <hr/>
 
-### 관리자 화면 - 회원 관리
+### 관리자 - 회원 관리
 <hr/>
 
 
@@ -199,7 +199,7 @@
 <br><br>
 <hr/>
 
-### 관리자 화면 - 서포미 픽 관리
+### 관리자 - 서포미 픽 관리
 <hr/>
 
 
@@ -230,6 +230,7 @@
 [오상민](https://github.com/osm2112) |[이동건](https://github.com/dlehdrjs36) |[김혜연](https://github.com/) |[김효정](https://github.com/)
 
 <br><br>
+<hr/>
 
 ## [License](https://github.com/dlehdrjs36/SupportForMe/blob/master/LICENSE.md)
 <hr/>
