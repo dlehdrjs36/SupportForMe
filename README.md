@@ -119,7 +119,7 @@
 
 ![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_8.png)
 
-           ![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_9.png)
+<!--![](https://dlehdrjs36.github.io/SupportForMe/DemoImages/DemoImage_9.png)-->
 
 <br><br>
 ### 관리자 화면 - 프로젝트 관리
